@@ -37,9 +37,9 @@ This is a simple RESTful API using Lumen that allows users to manage tasks. The 
 1. **Clone the repository**:
 
    ```bash
-   git clone git remote add origin https://github.com/parsimeikoikai/task-management-api.git
+   git clone git remote add origin https://github.com/parsimeikoikai/task-management-app-backend.git
    
-   cd task-management-api
+   cd task-management-app-backend
 
 2. **Install dependencies:**:
 
