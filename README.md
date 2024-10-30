@@ -68,3 +68,5 @@ This is a simple RESTful API using Lumen that allows users to manage tasks. The 
    php -S localhost:8000 -t public
 
 API Access: The API will be accessible at http://localhost:8000
+
+NB : I have also included a screenshots folder with sample screenshots of how to run the different requests
